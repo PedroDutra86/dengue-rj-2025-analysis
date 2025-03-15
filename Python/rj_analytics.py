@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
+import os
 
-df = pd.read_csv("./dengue_2025_rj.csv")
+file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data", "dengue_2025_rj.csv"))
+df = pd.read_csv(file_path)
 
 st.title('Análise de Casos de Dengue no Rio de Janeiro (2025)')
 
