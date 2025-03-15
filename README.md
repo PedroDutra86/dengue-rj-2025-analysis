@@ -1,7 +1,5 @@
 # Dengue Analysis - Streamlit App (2025)
 
-![Dengue Analysis Banner](https://via.placeholder.com/1200x400?text=Dengue+Analysis+2025)
-
 This repository contains a **Streamlit application** for analyzing **Dengue cases in Rio de Janeiro (2025)**. The dataset includes detailed information about municipalities, case counts, and other important metrics related to the disease's spread.
 
 ## Table of Contents
@@ -80,11 +78,11 @@ To run this app locally, follow the steps below:
 
 Here are some screenshots of the application:
 
-![App Screenshot 1](screenshots/screenshot1.png)
-_Example of the Dengue Cases Data Table_
+![App Screenshot 1](imgs/screenshot1.png)
 
-![App Screenshot 2](screenshots/screenshot2.png)
-_Example of the Case Count by Municipality Graph_
+
+![App Screenshot 2](imgs/screenshot2.png)
+
 
 ## Contributing
 
