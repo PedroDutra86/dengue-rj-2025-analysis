@@ -66,11 +66,11 @@ To run this app locally, follow the steps below:
 1. Clone this repo:
     ```bash
     git clone https://github.com/yourusername/dengue-analysis-app.git
-    cd dengue-analysis-app
+    cd Python
 
 2. Run the app:
     ```bash
-    streamlit run app.py
+    streamlit run rj_analytics.py
 
 3. Open the app in your browser at http://localhost:8501.
 
@@ -101,5 +101,5 @@ Please make sure your code follows the project's coding standards and includes t
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <p align="center">
-  <img src="imgs\HealthDataLogo.svg" alt="Logo da Empresa" width="200"/>
+  <img src="imgs\HealthDataLogo.svg" alt="Logo da Empresa" width="100"/>
 </p>
