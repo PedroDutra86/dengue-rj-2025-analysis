@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv("dengue_2025_rj.csv")
+df = pd.read_csv("./dengue_2025_rj.csv")
 
 st.title('Análise de Casos de Dengue no Rio de Janeiro (2025)')
 
