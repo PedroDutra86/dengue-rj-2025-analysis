@@ -101,5 +101,5 @@ Please make sure your code follows the project's coding standards and includes t
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <p align="center">
-  <img src="C:\Users\conta\Documents\DataSus\imgs\HealthDataLogo.svg" alt="Logo da Empresa" width="200"/>
+  <img src="imgs\HealthDataLogo.svg" alt="Logo da Empresa" width="200"/>
 </p>
